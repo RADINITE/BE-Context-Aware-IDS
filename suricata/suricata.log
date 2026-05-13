@@ -1,0 +1,129 @@
+[7321 - Suricata-Main] 2025-09-19 18:00:35 Notice: suricata: This is Suricata version 7.0.11 RELEASE running in USER mode
+[7321 - Suricata-Main] 2025-09-19 18:00:35 Info: cpu: CPUs/cores online: 16
+[7321 - Suricata-Main] 2025-09-19 18:00:35 Info: suricata: Setting engine mode to IDS mode by default
+[7321 - Suricata-Main] 2025-09-19 18:00:35 Info: exception-policy: master exception-policy set to: auto
+[7321 - Suricata-Main] 2025-09-19 18:00:35 Info: logopenfile: fast output device (regular) initialized: fast.log
+[7321 - Suricata-Main] 2025-09-19 18:00:35 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[7321 - Suricata-Main] 2025-09-19 18:00:35 Info: logopenfile: stats output device (regular) initialized: stats.log
+[7321 - Suricata-Main] 2025-09-19 18:00:40 Info: detect: 2 rule files processed. 45172 rules successfully loaded, 0 rules failed, 0
+[7321 - Suricata-Main] 2025-09-19 18:00:41 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[7321 - Suricata-Main] 2025-09-19 18:00:41 Info: detect: 45175 signatures processed. 964 are IP-only rules, 4388 are inspecting packet payload, 39593 inspect application layer, 109 are decoder event only
+[7321 - Suricata-Main] 2025-09-19 18:00:53 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[7327 - RX#01] 2025-09-19 18:00:53 Info: pcap: Starting file run for portscan.pcap
+[7321 - Suricata-Main] 2025-09-19 18:00:53 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[7327 - RX#01] 2025-09-19 18:00:53 Info: pcap: pcap file portscan.pcap end of file reached (pcap err code 0)
+[7321 - Suricata-Main] 2025-09-19 18:00:53 Notice: suricata: Signal Received.  Stopping engine.
+[7321 - Suricata-Main] 2025-09-19 18:00:53 Info: suricata: time elapsed 0.236s
+[7327 - RX#01] 2025-09-19 18:00:53 Notice: pcap: read 1 file, 200 packets, 11862 bytes
+[7321 - Suricata-Main] 2025-09-19 18:00:53 Info: counters: Alerts: 14
+[4617 - Suricata-Main] 2025-10-15 06:41:07 Notice: suricata: This is Suricata version 7.0.11 RELEASE running in USER mode
+[4617 - Suricata-Main] 2025-10-15 06:41:07 Info: cpu: CPUs/cores online: 16
+[4617 - Suricata-Main] 2025-10-15 06:41:07 Info: suricata: Setting engine mode to IDS mode by default
+[4617 - Suricata-Main] 2025-10-15 06:41:07 Info: exception-policy: master exception-policy set to: auto
+[4617 - Suricata-Main] 2025-10-15 06:41:07 Info: logopenfile: fast output device (regular) initialized: fast.log
+[4617 - Suricata-Main] 2025-10-15 06:41:07 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[4617 - Suricata-Main] 2025-10-15 06:41:07 Info: logopenfile: stats output device (regular) initialized: stats.log
+[4617 - Suricata-Main] 2025-10-15 06:41:13 Info: detect: 2 rule files processed. 45172 rules successfully loaded, 0 rules failed, 0
+[4617 - Suricata-Main] 2025-10-15 06:41:13 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[4617 - Suricata-Main] 2025-10-15 06:41:13 Info: detect: 45175 signatures processed. 964 are IP-only rules, 4388 are inspecting packet payload, 39593 inspect application layer, 109 are decoder event only
+[4617 - Suricata-Main] 2025-10-15 06:41:26 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[4618 - RX#01] 2025-10-15 06:41:26 Info: pcap: Starting file run for malware.pcap
+[4618 - RX#01] 2025-10-15 06:41:26 Info: pcap: pcap file malware.pcap end of file reached (pcap err code 0)
+[4617 - Suricata-Main] 2025-10-15 06:41:26 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[4617 - Suricata-Main] 2025-10-15 06:41:26 Notice: suricata: Signal Received.  Stopping engine.
+[4617 - Suricata-Main] 2025-10-15 06:41:26 Info: suricata: time elapsed 0.211s
+[4618 - RX#01] 2025-10-15 06:41:26 Notice: pcap: read 1 file, 20 packets, 2472 bytes
+[4617 - Suricata-Main] 2025-10-15 06:41:26 Info: counters: Alerts: 0
+[6104 - Suricata-Main] 2025-10-15 06:59:08 Notice: suricata: This is Suricata version 7.0.11 RELEASE running in USER mode
+[6104 - Suricata-Main] 2025-10-15 06:59:08 Info: cpu: CPUs/cores online: 16
+[6104 - Suricata-Main] 2025-10-15 06:59:08 Info: suricata: Setting engine mode to IDS mode by default
+[6104 - Suricata-Main] 2025-10-15 06:59:08 Info: exception-policy: master exception-policy set to: auto
+[6104 - Suricata-Main] 2025-10-15 06:59:08 Info: logopenfile: fast output device (regular) initialized: fast.log
+[6104 - Suricata-Main] 2025-10-15 06:59:08 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[6104 - Suricata-Main] 2025-10-15 06:59:08 Info: logopenfile: stats output device (regular) initialized: stats.log
+[6104 - Suricata-Main] 2025-10-15 06:59:14 Info: detect: 2 rule files processed. 45172 rules successfully loaded, 0 rules failed, 0
+[6104 - Suricata-Main] 2025-10-15 06:59:14 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[6104 - Suricata-Main] 2025-10-15 06:59:14 Info: detect: 45175 signatures processed. 964 are IP-only rules, 4388 are inspecting packet payload, 39593 inspect application layer, 109 are decoder event only
+[6104 - Suricata-Main] 2025-10-15 06:59:26 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[6106 - RX#01] 2025-10-15 06:59:26 Info: pcap: Starting file run for portscan.pcap
+[6104 - Suricata-Main] 2025-10-15 06:59:26 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[6106 - RX#01] 2025-10-15 06:59:26 Info: pcap: pcap file portscan.pcap end of file reached (pcap err code 0)
+[6104 - Suricata-Main] 2025-10-15 06:59:26 Notice: suricata: Signal Received.  Stopping engine.
+[6104 - Suricata-Main] 2025-10-15 06:59:26 Info: suricata: time elapsed 0.243s
+[6106 - RX#01] 2025-10-15 06:59:26 Notice: pcap: read 1 file, 200 packets, 11862 bytes
+[6104 - Suricata-Main] 2025-10-15 06:59:27 Info: counters: Alerts: 14
+[2652 - Suricata-Main] 2026-04-08 12:11:31 Notice: suricata: This is Suricata version 7.0.11 RELEASE running in USER mode
+[2652 - Suricata-Main] 2026-04-08 12:11:31 Info: cpu: CPUs/cores online: 16
+[2652 - Suricata-Main] 2026-04-08 12:11:31 Info: suricata: Setting engine mode to IDS mode by default
+[2652 - Suricata-Main] 2026-04-08 12:11:31 Info: exception-policy: master exception-policy set to: auto
+[2652 - Suricata-Main] 2026-04-08 12:11:31 Info: logopenfile: fast output device (regular) initialized: fast.log
+[2652 - Suricata-Main] 2026-04-08 12:11:31 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[2652 - Suricata-Main] 2026-04-08 12:11:31 Info: logopenfile: stats output device (regular) initialized: stats.log
+[2652 - Suricata-Main] 2026-04-08 12:11:36 Info: detect: 2 rule files processed. 45172 rules successfully loaded, 0 rules failed, 0
+[2652 - Suricata-Main] 2026-04-08 12:11:36 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[2652 - Suricata-Main] 2026-04-08 12:11:36 Info: detect: 45175 signatures processed. 964 are IP-only rules, 4388 are inspecting packet payload, 39593 inspect application layer, 109 are decoder event only
+[2652 - Suricata-Main] 2026-04-08 12:11:49 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[2661 - RX#01] 2026-04-08 12:11:49 Info: pcap: Starting file run for portscan.pcap
+[2652 - Suricata-Main] 2026-04-08 12:11:49 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[2661 - RX#01] 2026-04-08 12:11:49 Info: pcap: pcap file portscan.pcap end of file reached (pcap err code 0)
+[2652 - Suricata-Main] 2026-04-08 12:11:49 Notice: suricata: Signal Received.  Stopping engine.
+[2652 - Suricata-Main] 2026-04-08 12:11:49 Info: suricata: time elapsed 0.233s
+[2661 - RX#01] 2026-04-08 12:11:49 Notice: pcap: read 1 file, 200 packets, 11862 bytes
+[2652 - Suricata-Main] 2026-04-08 12:11:49 Info: counters: Alerts: 14
+[2662 - Suricata-Main] 2026-04-21 13:45:26 Notice: suricata: This is Suricata version 7.0.11 RELEASE running in USER mode
+[2662 - Suricata-Main] 2026-04-21 13:45:26 Info: cpu: CPUs/cores online: 16
+[2662 - Suricata-Main] 2026-04-21 13:45:26 Info: suricata: Setting engine mode to IDS mode by default
+[2662 - Suricata-Main] 2026-04-21 13:45:26 Info: exception-policy: master exception-policy set to: auto
+[2662 - Suricata-Main] 2026-04-21 13:45:26 Info: logopenfile: fast output device (regular) initialized: fast.log
+[2662 - Suricata-Main] 2026-04-21 13:45:26 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[2662 - Suricata-Main] 2026-04-21 13:45:26 Info: logopenfile: stats output device (regular) initialized: stats.log
+[2662 - Suricata-Main] 2026-04-21 13:45:32 Info: detect: 2 rule files processed. 45172 rules successfully loaded, 0 rules failed, 0
+[2662 - Suricata-Main] 2026-04-21 13:45:32 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[2662 - Suricata-Main] 2026-04-21 13:45:32 Info: detect: 45175 signatures processed. 964 are IP-only rules, 4388 are inspecting packet payload, 39593 inspect application layer, 109 are decoder event only
+[2662 - Suricata-Main] 2026-04-21 13:45:46 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[2672 - RX#01] 2026-04-21 13:45:46 Info: pcap: Starting file run for portscan.pcap
+[2662 - Suricata-Main] 2026-04-21 13:45:46 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[2672 - RX#01] 2026-04-21 13:45:46 Info: pcap: pcap file portscan.pcap end of file reached (pcap err code 0)
+[2662 - Suricata-Main] 2026-04-21 13:45:46 Notice: suricata: Signal Received.  Stopping engine.
+[2662 - Suricata-Main] 2026-04-21 13:45:46 Info: suricata: time elapsed 0.242s
+[2672 - RX#01] 2026-04-21 13:45:46 Notice: pcap: read 1 file, 200 packets, 11862 bytes
+[2662 - Suricata-Main] 2026-04-21 13:45:46 Info: counters: Alerts: 14
+[3494 - Suricata-Main] 2026-04-21 13:46:25 Notice: suricata: This is Suricata version 7.0.11 RELEASE running in USER mode
+[3494 - Suricata-Main] 2026-04-21 13:46:25 Info: cpu: CPUs/cores online: 16
+[3494 - Suricata-Main] 2026-04-21 13:46:25 Info: suricata: Setting engine mode to IDS mode by default
+[3494 - Suricata-Main] 2026-04-21 13:46:25 Info: exception-policy: master exception-policy set to: auto
+[3494 - Suricata-Main] 2026-04-21 13:46:25 Info: logopenfile: fast output device (regular) initialized: fast.log
+[3494 - Suricata-Main] 2026-04-21 13:46:25 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[3494 - Suricata-Main] 2026-04-21 13:46:25 Info: logopenfile: stats output device (regular) initialized: stats.log
+[3494 - Suricata-Main] 2026-04-21 13:46:33 Info: detect: 2 rule files processed. 45172 rules successfully loaded, 0 rules failed, 0
+[3494 - Suricata-Main] 2026-04-21 13:46:33 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[3494 - Suricata-Main] 2026-04-21 13:46:33 Info: detect: 45175 signatures processed. 964 are IP-only rules, 4388 are inspecting packet payload, 39593 inspect application layer, 109 are decoder event only
+[3494 - Suricata-Main] 2026-04-21 13:46:51 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[3631 - RX#01] 2026-04-21 13:46:51 Info: pcap: Starting file run for portscan.pcap
+[3494 - Suricata-Main] 2026-04-21 13:46:51 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[3631 - RX#01] 2026-04-21 13:46:51 Info: pcap: pcap file portscan.pcap end of file reached (pcap err code 0)
+[3494 - Suricata-Main] 2026-04-21 13:46:51 Notice: suricata: Signal Received.  Stopping engine.
+[3494 - Suricata-Main] 2026-04-21 13:46:51 Info: suricata: time elapsed 0.278s
+[3631 - RX#01] 2026-04-21 13:46:51 Notice: pcap: read 1 file, 200 packets, 11862 bytes
+[3494 - Suricata-Main] 2026-04-21 13:46:51 Info: counters: Alerts: 14
+[27154 - Suricata-Main] 2026-05-03 13:03:17 Notice: suricata: This is Suricata version 8.0.4 RELEASE running in USER mode
+[27154 - Suricata-Main] 2026-05-03 13:03:17 Info: cpu: CPUs/cores online: 16
+[27154 - Suricata-Main] 2026-05-03 13:03:17 Info: suricata: Setting engine mode to IDS mode by default
+[27154 - Suricata-Main] 2026-05-03 13:03:17 Info: exception-policy: master exception-policy set to: auto
+[27154 - Suricata-Main] 2026-05-03 13:03:17 Info: suricata: Preparing unexpected signal handling
+[27154 - Suricata-Main] 2026-05-03 13:03:17 Info: logopenfile: fast output device (regular) initialized: fast.log
+[27154 - Suricata-Main] 2026-05-03 13:03:17 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[27154 - Suricata-Main] 2026-05-03 13:03:17 Info: logopenfile: stats output device (regular) initialized: stats.log
+[27154 - Suricata-Main] 2026-05-03 13:03:19 Warning: detect: duplicate instance for tls.cert_subject in 'alert tls $EXTERNAL_NET any -> $HOME_NET any (msg:"ET MALWARE TA421/YTTRIUM/APT29 TLS Certificate M1"; flow:established,to_client; tls.cert_subject; content:"C=IL, O=StartCom Ltd., CN="; startswith; isdataat:!20,relative; tls.cert_subject; content:"CN=*"; endswith; reference:url,community.riskiq.com/article/541a465f; classtype:command-and-control; sid:2033632; rev:2; metadata:attack_target Client_and_Server, created_at 2021_07_31, deployment Perimeter, performance_impact Low, confidence High, signature_severity Major, tag SSL_Malicious_Cert, tag Description_Generated_By_Proofpoint_Nexus, updated_at 2021_07_31;)'
+[27154 - Suricata-Main] 2026-05-03 13:03:20 Warning: detect: duplicate instance for tls.cert_subject in 'alert tls $EXTERNAL_NET any -> $HOME_NET any (msg:"ET MALWARE TA421/YTTRIUM/APT29 TLS Certificate M2"; flow:established,to_client; tls.cert_subject; content:"C=KR, O=SGssl, CN="; startswith; isdataat:!20,relative; tls.cert_subject; content:"CN=*"; endswith; reference:url,community.riskiq.com/article/541a465f; classtype:domain-c2; sid:2033633; rev:2; metadata:attack_target Client_and_Server, created_at 2021_07_31, deployment Perimeter, performance_impact Low, confidence High, signature_severity Major, tag SSL_Malicious_Cert, updated_at 2024_07_04, mitre_tactic_id TA0011, mitre_tactic_name Command_And_Control, mitre_technique_id T1071, mitre_technique_name Application_Layer_Protocol;)'
+[27154 - Suricata-Main] 2026-05-03 13:03:23 Info: detect: 2 rule files processed. 45172 rules successfully loaded, 0 rules failed, 0 rules skipped
+[27154 - Suricata-Main] 2026-05-03 13:03:23 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[27154 - Suricata-Main] 2026-05-03 13:03:23 Info: detect: 45175 signatures processed. 964 are IP-only rules, 4388 are inspecting packet payload, 39593 inspect application layer, 109 are decoder event only
+[27154 - Suricata-Main] 2026-05-03 13:03:37 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[27237 - RX#01] 2026-05-03 13:03:38 Info: pcap: Starting file run for portscan.pcap
+[27154 - Suricata-Main] 2026-05-03 13:03:38 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[27237 - RX#01] 2026-05-03 13:03:38 Info: pcap: pcap file portscan.pcap end of file reached (pcap err code 0)
+[27154 - Suricata-Main] 2026-05-03 13:03:38 Notice: suricata: Signal Received.  Stopping engine.
+[27154 - Suricata-Main] 2026-05-03 13:03:38 Info: suricata: time elapsed 0.236s
+[27237 - RX#01] 2026-05-03 13:03:38 Notice: pcap: read 1 file, 200 packets, 11862 bytes
+[27154 - Suricata-Main] 2026-05-03 13:03:38 Info: counters: Alerts: 14
