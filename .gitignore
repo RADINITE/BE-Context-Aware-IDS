@@ -3,5 +3,4 @@ __pycache__/
 *.pyc
 eve.json
 fast.log
-*.pcap
 .env
